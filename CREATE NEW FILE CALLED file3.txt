@@ -1,0 +1,4 @@
+CREATE NEW FILE CALLED file3.txt 
+commit the change 
+Edit the content of file3.txt save and commit again 
+edit both files  file1.txt and file2.txt , observe the change in GitHub Desktop and commit both changes in one shot
